@@ -58,7 +58,7 @@
     "np": "^8.0.0",
     "typescript": "^5.0.4",
     "vite": "4.4.9",
-    "vitest": "0.34.3"
+    "vitest": "0.34.5"
   },
   "browserslist": [
     ">1%",
